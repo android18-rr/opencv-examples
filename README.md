@@ -6,5 +6,4 @@ Examples for studying Opencv.
 
 - An example from DAVIS 2017.
 
-![opticalflow_dense](https://github.com/android18-rr/opencv-examples/figs/soccerball.gif)
-
+![opticalflow_dense](figs/soccerball.gif "opticalflow_dense")
